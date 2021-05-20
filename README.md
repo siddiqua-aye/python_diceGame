@@ -1,6 +1,8 @@
 # python_diceGame
 Dice game between player and computer using Python programming language.
 
+![image](https://user-images.githubusercontent.com/82129736/118904978-e642e800-b8e8-11eb-8aab-b6309e431ebb.png)
+
 ## Project Details
 
 Files included: 
